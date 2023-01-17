@@ -29,6 +29,12 @@ plugins:
   - serverless-offline
 ```
 
+## Getting Started
+
+```bash
+npm install
+```
+
 - Test offline
 
 ```bash
